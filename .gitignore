@@ -1,0 +1,8 @@
+# Archivos generados al compilar Java
+*.class
+ProyectosJava/**/out/
+ProyectosJava/salida/
+
+# Datos locales creados al usar el programa de agenda
+agenda.txt
+ProyectosJava/agenda.txt
